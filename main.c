@@ -1,7 +1,3 @@
-// https://towardsdatascience.com/tic-tac-toe-creating-unbeatable-ai-with-minimax-algorithm-8af9e52c1e7d#:~:text=Minimax%20algorithm,minimize%20the%20worst%20case%20scenario)
-// https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
-// https://www.youtube.com/watch?v=trKjYdBASyQ
-// https://www.youtube.com/watch?v=l-hh51ncgDI
 #include <stdio.h>
 #include <stdbool.h>
 
